@@ -1,0 +1,11 @@
+{
+    "reporte": {
+        "nivel": "ERROR",
+        "fecha": "2026-02-26 19:58:47",
+        "metricas": {
+            "no_vacias": 66,
+            "validas": 7,
+            "sospechosas": 3
+        }
+    }
+}

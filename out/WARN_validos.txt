@@ -1,0 +1,20 @@
+[WARN] 2026-02-20 08:03:20 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:06:58 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:07:15 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:11:41 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:14:50 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:21:30 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:26:43 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:27:36 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:28:49 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:30:17 Slow query detected table=orders time_ms=912
+[WARN] 2026-02-20 08:30:34 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:32:06 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:37:22 Disk usage high mount=/var usage=88%
+[WARN] 2026-02-20 08:45:32 Slow query detected table=orders time_ms=912
+[WARN] 2026-02-20 08:48:56 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:50:25 Retrying request to payments-service attempt=2
+[WARN] 2026-02-20 08:52:52 Slow query detected table=orders time_ms=912
+[WARN] 2026-02-20 08:19:01 Trailing spaces    
+[WARN] 2026-02-20 08:58:16 Slow query detected table=orders time_ms=912
+[WARN] 2026-02-20 08:58:52 Slow query detected table=orders time_ms=912

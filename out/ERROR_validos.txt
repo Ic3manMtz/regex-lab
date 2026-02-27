@@ -1,0 +1,7 @@
+[ERROR] 2026-02-20 08:08:52 Authentication failed user=admin
+[ERROR] 2026-02-20 08:19:14 Connection failed host=db01 port=5432
+[ERROR] 2026-02-20 08:29:07 Authentication failed user=admin
+[ERROR] 2026-02-20 08:61:12 Impossible minute value
+[ERROR] 2026-02-20 08:41:07 Authentication failed user=admin
+[ERROR] 2026-02-20 08:44:24 Timeout calling service inventory-service timeout_ms=3000
+[ERROR] 2026-02-20 08:46:44 Timeout calling service inventory-service timeout_ms=3000

@@ -1,0 +1,7 @@
+abcdef12 -> Razón: no tiene mayúscula
+Abcdefgh -> Razón: no tiene dígito
+A234567 -> Razón: longitud insuficiente
+passWORD -> Razón: no tiene dígito
+AAaa11 -> Razón: longitud insuficiente
+A________1 -> Razón: tiene caracteres inválidos
+hola1234 -> Razón: no tiene mayúscula
